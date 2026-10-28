@@ -1,0 +1,10 @@
+{
+  "description": "This intelligent platform enhances smart manufacturing by connecting machines with IoT sensors, predicting faults using AI, and providing real-time insights for operators and engineers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
